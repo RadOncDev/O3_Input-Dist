@@ -1,0 +1,166 @@
+O3_Input.exe Information: 0 : O3_Input run on 10/28/2025 9:02:06 PM
+O3_Input.exe Information: 0 : Read Queries from T:\Radonc_Shared\shared\RadOnc\Mayo\O3_Input\Dist\\O3_Input_QuerySet.json
+O3_Input.exe Information: 0 : Geting patcoursestoget table from T:\Radonc_Shared\shared\RadOnc\Mayo\O3_Input\Dist\TSVInputFiles_NoPHI\PatCoursesToGet.txt
+O3_Input.exe Information: 0 : Getting ARIA data
+O3_Input.exe Information: 0 : Reading GetSessionInfo string from config file 
+O3_Input.exe Information: 0 :  
+O3_Input.exe Information: 0 :  
+O3_Input.exe Information: 0 : Getting data for Pat01 1 Lt Breast
+O3_Input.exe Information: 0 :     Parsing patient information
+O3_Input.exe Information: 0 :     Data Table returned from GetSessionInfo
+O3_Input.exe Information: 0 : Patient_MRN	RTCourse_Name	Patient_SexAtBirth	Patient_DateOfBirth	Patient_DateOfDeath	Patient_CauseOfDeath	Patient_Race	PatientSer	CourseSer	SessionSer	RTTreatedPlan_Name	RTPlanSer	PlanSetupSer	RTTreatedPlan_DicomPlan_UID	RTTreatedPlan_DicomDose_UID	RTCourseSession_Number	RTCourseSession_DateOfRecord	DateFirstTreatmentOfPlan	DateLastTreatmentOfPlan	RTTreatedPlan_Modality	RTTreatedPlanDetailsXRT_Technique	RTTreatedPlanDetailsXRT_Energy	RTCourseSession_NCBCTInSession	RTCourseSession_NkVInSession	RTCourseSession_NMVInSession	PatientInformation_DateOfRecord	PatientInformation_AddressOfDomicile	PatientInformation_PostalCodeDomicile	
+Pat01	1 Lt Breast	Female	3/4/1955 12:00:00 AM			White or Caucasian	2001	3001	30016676	1.1fL_Brst	30013701	300189001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	1	2/4/2025 3:15:00 PM	2/4/2025 3:15:00 PM	2/26/2025 4:55:00 PM	Photon	3D	X06	0	2	2	12/27/2024 12:00:00 AM	"25555 N. Maple Road Saline, MI 48176"	48176	
+Pat01	1 Lt Breast	Female	3/4/1955 12:00:00 AM			White or Caucasian	2001	3001	30016675	1.1fL_Brst	30013701	300189001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	2	2/5/2025 4:14:00 PM	2/4/2025 3:15:00 PM	2/26/2025 4:55:00 PM	Photon	3D	X06	0	1	1	12/27/2024 12:00:00 AM	"25556 N. Maple Road Saline, MI 48176"	48176	
+Pat01	1 Lt Breast	Female	3/4/1955 12:00:00 AM			White or Caucasian	2001	3001	30016674	1.1fL_Brst	30013701	300189001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	3	2/6/2025 4:31:00 PM	2/4/2025 3:15:00 PM	2/26/2025 4:55:00 PM	Photon	3D	X06	0	1	1	12/27/2024 12:00:00 AM	"25557 N. Maple Road Saline, MI 48176"	48176	
+Pat01	1 Lt Breast	Female	3/4/1955 12:00:00 AM			White or Caucasian	2001	3001	30016673	1.1fL_Brst	30013701	300189001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	4	2/7/2025 1:38:00 PM	2/4/2025 3:15:00 PM	2/26/2025 4:55:00 PM	Photon	3D	X06	0	0	1	12/27/2024 12:00:00 AM	"25558 N. Maple Road Saline, MI 48176"	48176	
+Pat01	1 Lt Breast	Female	3/4/1955 12:00:00 AM			White or Caucasian	2001	3001	30016672	1.1fL_Brst	30013701	300189001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	5	2/10/2025 2:57:00 PM	2/4/2025 3:15:00 PM	2/26/2025 4:55:00 PM	Photon	3D	X06	0	0	1	12/27/2024 12:00:00 AM	"25559 N. Maple Road Saline, MI 48176"	48176	
+Pat01	1 Lt Breast	Female	3/4/1955 12:00:00 AM			White or Caucasian	2001	3001	30016671	1.1fL_Brst	30013701	300189001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	6	2/11/2025 4:44:00 PM	2/4/2025 3:15:00 PM	2/26/2025 4:55:00 PM	Photon	3D	X06	0	0	1	12/27/2024 12:00:00 AM	"25560 N. Maple Road Saline, MI 48176"	48176	
+Pat01	1 Lt Breast	Female	3/4/1955 12:00:00 AM			White or Caucasian	2001	3001	30016670	1.1fL_Brst	30013701	300189001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	7	2/12/2025 4:20:00 PM	2/4/2025 3:15:00 PM	2/26/2025 4:55:00 PM	Photon	3D	X06	0	0	1	12/27/2024 12:00:00 AM	"25561 N. Maple Road Saline, MI 48176"	48176	
+Pat01	1 Lt Breast	Female	3/4/1955 12:00:00 AM			White or Caucasian	2001	3001	30016669	1.1fL_Brst	30013701	300189001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	8	2/13/2025 3:19:00 PM	2/4/2025 3:15:00 PM	2/26/2025 4:55:00 PM	Photon	3D	X06	0	0	1	12/27/2024 12:00:00 AM	"25562 N. Maple Road Saline, MI 48176"	48176	
+Pat01	1 Lt Breast	Female	3/4/1955 12:00:00 AM			White or Caucasian	2001	3001	30016668	1.1fL_Brst	30013701	300189001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	9	2/17/2025 2:50:00 PM	2/4/2025 3:15:00 PM	2/26/2025 4:55:00 PM	Photon	3D	X06	0	0	1	12/27/2024 12:00:00 AM	"25563 N. Maple Road Saline, MI 48176"	48176	
+Pat01	1 Lt Breast	Female	3/4/1955 12:00:00 AM			White or Caucasian	2001	3001	30016667	1.1fL_Brst	30013701	300189001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	10	2/18/2025 4:51:00 PM	2/4/2025 3:15:00 PM	2/26/2025 4:55:00 PM	Photon	3D	X06	0	0	1	12/27/2024 12:00:00 AM	"25564 N. Maple Road Saline, MI 48176"	48176	
+Pat01	1 Lt Breast	Female	3/4/1955 12:00:00 AM			White or Caucasian	2001	3001	30016666	1.1fL_Brst	30013701	300189001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	11	2/19/2025 4:47:00 PM	2/4/2025 3:15:00 PM	2/26/2025 4:55:00 PM	Photon	3D	X06	0	0	1	12/27/2024 12:00:00 AM	"25565 N. Maple Road Saline, MI 48176"	48176	
+Pat01	1 Lt Breast	Female	3/4/1955 12:00:00 AM			White or Caucasian	2001	3001	30016665	1.1fL_Brst	30013701	300189001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	12	2/20/2025 4:42:00 PM	2/4/2025 3:15:00 PM	2/26/2025 4:55:00 PM	Photon	3D	X06	0	0	1	12/27/2024 12:00:00 AM	"25566 N. Maple Road Saline, MI 48176"	48176	
+Pat01	1 Lt Breast	Female	3/4/1955 12:00:00 AM			White or Caucasian	2001	3001	30016664	1.1fL_Brst	30013701	300189001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	13	2/21/2025 3:14:00 PM	2/4/2025 3:15:00 PM	2/26/2025 4:55:00 PM	Photon	3D	X06	0	0	1	12/27/2024 12:00:00 AM	"25567 N. Maple Road Saline, MI 48176"	48176	
+Pat01	1 Lt Breast	Female	3/4/1955 12:00:00 AM			White or Caucasian	2001	3001	30016663	1.1fL_Brst	30013701	300189001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	14	2/24/2025 3:05:00 PM	2/4/2025 3:15:00 PM	2/26/2025 4:55:00 PM	Photon	3D	X06	0	0	1	12/27/2024 12:00:00 AM	"25568 N. Maple Road Saline, MI 48176"	48176	
+Pat01	1 Lt Breast	Female	3/4/1955 12:00:00 AM			White or Caucasian	2001	3001	30016662	1.1fL_Brst	30013701	300189001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	15	2/25/2025 4:19:00 PM	2/4/2025 3:15:00 PM	2/26/2025 4:55:00 PM	Photon	3D	X06	0	0	1	12/27/2024 12:00:00 AM	"25569 N. Maple Road Saline, MI 48176"	48176	
+Pat01	1 Lt Breast	Female	3/4/1955 12:00:00 AM			White or Caucasian	2001	3001	30016661	1.1fL_Brst	30013701	300189001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	16	2/26/2025 4:55:00 PM	2/4/2025 3:15:00 PM	2/26/2025 4:55:00 PM	Photon	3D	X06	0	0	1	12/27/2024 12:00:00 AM	"25570 N. Maple Road Saline, MI 48176"	48176	
+Pat01	1 Lt Breast	Female	3/4/1955 12:00:00 AM			White or Caucasian	2001	3001	30017704	1.2tL_Tbed	30013702	300189002	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	17	2/27/2025 4:18:00 PM	2/27/2025 4:18:00 PM	3/4/2025 4:24:00 PM	Photon	3D	X16	0	3	0	12/27/2024 12:00:00 AM	"25571 N. Maple Road Saline, MI 48176"	48176	
+Pat01	1 Lt Breast	Female	3/4/1955 12:00:00 AM			White or Caucasian	2001	3001	30017703	1.2tL_Tbed	30013702	300189002	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	18	2/28/2025 4:29:00 PM	2/27/2025 4:18:00 PM	3/4/2025 4:24:00 PM	Photon	3D	X16	0	3	0	12/27/2024 12:00:00 AM	"25572 N. Maple Road Saline, MI 48176"	48176	
+Pat01	1 Lt Breast	Female	3/4/1955 12:00:00 AM			White or Caucasian	2001	3001	30017702	1.2tL_Tbed	30013702	300189002	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	19	3/3/2025 3:17:00 PM	2/27/2025 4:18:00 PM	3/4/2025 4:24:00 PM	Photon	3D	X16	0	3	0	12/27/2024 12:00:00 AM	"25573 N. Maple Road Saline, MI 48176"	48176	
+Pat01	1 Lt Breast	Female	3/4/1955 12:00:00 AM			White or Caucasian	2001	3001	30017701	1.2tL_Tbed	30013702	300189002	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	20	3/4/2025 4:24:00 PM	2/27/2025 4:18:00 PM	3/4/2025 4:24:00 PM	Photon	3D	X16	0	3	0	12/27/2024 12:00:00 AM	"25574 N. Maple Road Saline, MI 48176"	48176	
+
+O3_Input.exe Information: 0 :     Parsing treatment plan information
+O3_Input.exe Information: 0 : Parsing session information
+O3_Input.exe Information: 0 :     Check if Query GetDiagStagingInfo is in Active List
+O3_Input.exe Information: 0 :     Run Query GetDiagStagingInfo
+O3_Input.exe Information: 0 :     Data Table returned from GetDiagStagingInfo
+O3_Input.exe Information: 0 : Patient_MRN	RTCourse_Name	DiagStaging_DateOfRecord	DiagStaging_ICDCode	DiagStaging_Overall	StageComponents	DiagnosisDescription	DiagnosisName	PatientSer	CourseSer	
+Pat01	1 Lt Breast	1/14/2025 12:00:00 AM	C50.412	Ib	"T2, pN0, M0, G3, HER2 Neg, ER Pos, PR Po"	Malignant neoplasm of upper-outer quadrant of left female breast	Malignant neoplasm of upper-outer quadrant of left female breast	2001	3001	
+
+O3_Input.exe Information: 0 :     Data Table returned from GetDICOMImagesInfo
+O3_Input.exe Information: 0 : Patient_MRN	RTCourse_Name	SeriesModality	SliceType	Image_BodyStructure	Image_PatientOrientation	IsCT	IsMV	IskV	HoursFromStartOfTx	Image_DateOfRecord	Image_DICOMSeriesUID	PatientSer	SeriesSer	Image_Type	
+Pat01	1 Lt Breast	CT	SliceCT	CHEST	HFS	1	0	0	-289	1/23/2025 2:50:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Computed Tomography	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	0	1	25	2/5/2025 4:10:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-MV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	0	1	49	2/6/2025 4:27:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-MV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	0	1	553	2/27/2025 4:10:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-MV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	0	1	553	2/27/2025 4:11:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-MV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	0	1	553	2/27/2025 4:13:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-MV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	0	1	577	2/28/2025 4:23:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-MV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	0	1	577	2/28/2025 4:24:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-MV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	0	1	577	2/28/2025 4:25:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-MV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	0	1	648	3/3/2025 3:11:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-MV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	0	1	648	3/3/2025 3:11:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-MV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	0	1	648	3/3/2025 3:13:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-MV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	0	1	673	3/4/2025 4:18:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-MV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	0	1	673	3/4/2025 4:18:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-MV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	0	1	673	3/4/2025 4:21:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-MV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	1	0	25	2/5/2025 4:11:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-kV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	1	0	49	2/6/2025 4:28:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-kV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	1	0	70	2/7/2025 1:35:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-kV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	1	0	143	2/10/2025 2:52:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-kV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	1	0	169	2/11/2025 4:39:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-kV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	1	0	193	2/12/2025 4:16:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-kV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	1	0	216	2/13/2025 3:15:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-kV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	1	0	311	2/17/2025 2:46:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-kV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	1	0	337	2/18/2025 4:47:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-kV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	1	0	361	2/19/2025 4:44:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-kV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	1	0	385	2/20/2025 4:32:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-kV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	1	0	408	2/21/2025 3:10:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-kV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	1	0	480	2/24/2025 3:02:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-kV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	1	0	505	2/25/2025 4:15:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-kV	
+Pat01	1 Lt Breast	RTIMAGE	SliceRT		HFS	0	1	0	529	2/26/2025 4:52:00 PM	x.x.x.x.x.x.x.x.x	2001	-9999	Fluoroscopy-kV	
+
+O3_Input.exe Information: 0 :     Parsing returned information about images
+O3_Input.exe Information: 0 :  
+O3_Input.exe Information: 0 :  
+O3_Input.exe Information: 0 : Getting data for Pat02 1 PROSTATE
+O3_Input.exe Information: 0 :     Parsing patient information
+O3_Input.exe Information: 0 :     Data Table returned from GetSessionInfo
+O3_Input.exe Information: 0 : Patient_MRN	RTCourse_Name	Patient_SexAtBirth	Patient_DateOfBirth	Patient_DateOfDeath	Patient_CauseOfDeath	Patient_Race	PatientSer	CourseSer	SessionSer	RTTreatedPlan_Name	RTPlanSer	PlanSetupSer	RTTreatedPlan_DicomPlan_UID	RTTreatedPlan_DicomDose_UID	RTCourseSession_Number	RTCourseSession_DateOfRecord	DateFirstTreatmentOfPlan	DateLastTreatmentOfPlan	RTTreatedPlan_Modality	RTTreatedPlanDetailsXRT_Technique	RTTreatedPlanDetailsXRT_Energy	RTCourseSession_NCBCTInSession	RTCourseSession_NkVInSession	RTCourseSession_NMVInSession	PatientInformation_DateOfRecord	PatientInformation_AddressOfDomicile	PatientInformation_PostalCodeDomicile	
+Pat02	1 PROSTATE	Male	10/14/1969 12:00:00 AM			Black or African American	2002	3002	-9999	1.1v PRST	30023701	300289001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	1	8/31/2023 12:20:00 PM	8/31/2023 12:19:00 PM	9/12/2023 8:16:00 AM	Photon	VMAT	X06	1	0	0	6/19/2023 12:00:00 AM	"25575 N. Maple Road Saline, MI 48176"	48176	
+Pat02	1 PROSTATE	Male	10/14/1969 12:00:00 AM			Black or African American	2002	3002	-9999	1.1v PRST	30023701	300289001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	2	9/4/2023 8:20:00 AM	8/31/2023 12:19:00 PM	9/12/2023 8:16:00 AM	Photon	VMAT	X06	1	0	0	6/19/2023 12:00:00 AM	"25576 N. Maple Road Saline, MI 48176"	48176	
+Pat02	1 PROSTATE	Male	10/14/1969 12:00:00 AM			Black or African American	2002	3002	-9999	1.1v PRST	30023701	300289001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	3	9/6/2023 8:16:00 AM	8/31/2023 12:19:00 PM	9/12/2023 8:16:00 AM	Photon	VMAT	X06	1	0	0	6/19/2023 12:00:00 AM	"25577 N. Maple Road Saline, MI 48176"	48176	
+Pat02	1 PROSTATE	Male	10/14/1969 12:00:00 AM			Black or African American	2002	3002	-9999	1.1v PRST	30023701	300289001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	4	9/8/2023 7:10:00 AM	8/31/2023 12:19:00 PM	9/12/2023 8:16:00 AM	Photon	VMAT	X06	1	0	0	6/19/2023 12:00:00 AM	"25578 N. Maple Road Saline, MI 48176"	48176	
+Pat02	1 PROSTATE	Male	10/14/1969 12:00:00 AM			Black or African American	2002	3002	-9999	1.1v PRST	30023701	300289001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	5	9/12/2023 8:16:00 AM	8/31/2023 12:19:00 PM	9/12/2023 8:16:00 AM	Photon	VMAT	X06	2	0	0	6/19/2023 12:00:00 AM	"25579 N. Maple Road Saline, MI 48176"	48176	
+
+O3_Input.exe Information: 0 :     Parsing treatment plan information
+O3_Input.exe Information: 0 : Parsing session information
+O3_Input.exe Information: 0 :     Check if Query GetDiagStagingInfo is in Active List
+O3_Input.exe Information: 0 :     Run Query GetDiagStagingInfo
+O3_Input.exe Information: 0 :     Data Table returned from GetDiagStagingInfo
+O3_Input.exe Information: 0 : Patient_MRN	RTCourse_Name	DiagStaging_DateOfRecord	DiagStaging_ICDCode	DiagStaging_Overall	StageComponents	DiagnosisDescription	DiagnosisName	PatientSer	CourseSer	
+Pat02	1 PROSTATE	7/4/2023 12:00:00 AM	C61	IIb	"T1c, N0, M0, P<10, G2                   "	Malignant neoplasm of prostate	Malignant neoplasm of prostate	2002	3002	
+
+O3_Input.exe Information: 0 :     Data Table returned from GetDICOMImagesInfo
+O3_Input.exe Information: 0 : Patient_MRN	RTCourse_Name	SeriesModality	SliceType	Image_BodyStructure	Image_PatientOrientation	IsCT	IsMV	IskV	HoursFromStartOfTx	Image_DateOfRecord	Image_DICOMSeriesUID	PatientSer	SeriesSer	Image_Type	
+Pat02	1 PROSTATE	CT	SliceCT	PELVIS	HFS	1	0	0	-362	8/16/2023 10:34:00 AM	x.x.x.x.x.x.x.x.x	2002	-9999	Computed Tomography	
+Pat02	1 PROSTATE	CT	SliceCT		HFS	1	0	0	0	8/31/2023 12:06:00 PM	x.x.x.x.x.x.x.x.x	2002	-9999	Cone Beam Computed Tomography	
+Pat02	1 PROSTATE	CT	SliceCT		HFS	1	0	0	92	9/4/2023 8:08:00 AM	x.x.x.x.x.x.x.x.x	2002	-9999	Cone Beam Computed Tomography	
+Pat02	1 PROSTATE	CT	SliceCT		HFS	1	0	0	140	9/6/2023 8:05:00 AM	x.x.x.x.x.x.x.x.x	2002	-9999	Cone Beam Computed Tomography	
+Pat02	1 PROSTATE	CT	SliceCT		HFS	1	0	0	187	9/8/2023 7:03:00 AM	x.x.x.x.x.x.x.x.x	2002	-9999	Cone Beam Computed Tomography	
+Pat02	1 PROSTATE	CT	SliceCT		HFS	1	0	0	284	9/12/2023 8:01:00 AM	x.x.x.x.x.x.x.x.x	2002	-9999	Cone Beam Computed Tomography	
+Pat02	1 PROSTATE	CT	SliceCT		HFS	1	0	0	284	9/12/2023 8:08:00 AM	x.x.x.x.x.x.x.x.x	2002	-9999	Cone Beam Computed Tomography	
+
+O3_Input.exe Information: 0 :     Parsing returned information about images
+O3_Input.exe Information: 0 :  
+O3_Input.exe Information: 0 :  
+O3_Input.exe Information: 0 : Getting data for Pat03 1 PROST+SV
+O3_Input.exe Information: 0 :     Parsing patient information
+O3_Input.exe Information: 0 :     Data Table returned from GetSessionInfo
+O3_Input.exe Information: 0 : Patient_MRN	RTCourse_Name	Patient_SexAtBirth	Patient_DateOfBirth	Patient_DateOfDeath	Patient_CauseOfDeath	Patient_Race	PatientSer	CourseSer	SessionSer	RTTreatedPlan_Name	RTPlanSer	PlanSetupSer	RTTreatedPlan_DicomPlan_UID	RTTreatedPlan_DicomDose_UID	RTCourseSession_Number	RTCourseSession_DateOfRecord	DateFirstTreatmentOfPlan	DateLastTreatmentOfPlan	RTTreatedPlan_Modality	RTTreatedPlanDetailsXRT_Technique	RTTreatedPlanDetailsXRT_Energy	RTCourseSession_NCBCTInSession	RTCourseSession_NkVInSession	RTCourseSession_NMVInSession	PatientInformation_DateOfRecord	PatientInformation_AddressOfDomicile	PatientInformation_PostalCodeDomicile	
+Pat03	1 PROST+SV	Male	9/3/1964 12:00:00 AM			White or Caucasian	2003	3003	30032866	1.1v P+SV	30033701	300389001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	1	2/19/2024 1:37:00 PM	2/19/2024 1:37:00 PM	3/15/2024 10:36:00 AM	Photon	VMAT	X06	1	0	0	6/27/2023 12:00:00 AM	"25580 N. Maple Road Saline, MI 48176"	48176	
+Pat03	1 PROST+SV	Male	9/3/1964 12:00:00 AM			White or Caucasian	2003	3003	30032785	1.1v P+SV	30033701	300389001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	2	2/20/2024 2:22:00 PM	2/19/2024 1:37:00 PM	3/15/2024 10:36:00 AM	Photon	VMAT	X06	1	0	0	6/27/2023 12:00:00 AM	"25581 N. Maple Road Saline, MI 48176"	48176	
+Pat03	1 PROST+SV	Male	9/3/1964 12:00:00 AM			White or Caucasian	2003	3003	30032784	1.1v P+SV	30033701	300389001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	3	2/21/2024 2:22:00 PM	2/19/2024 1:37:00 PM	3/15/2024 10:36:00 AM	Photon	VMAT	X06	1	0	0	6/27/2023 12:00:00 AM	"25582 N. Maple Road Saline, MI 48176"	48176	
+Pat03	1 PROST+SV	Male	9/3/1964 12:00:00 AM			White or Caucasian	2003	3003	30032867	1.1v P+SV	30033701	300389001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	4	2/22/2024 2:24:00 PM	2/19/2024 1:37:00 PM	3/15/2024 10:36:00 AM	Photon	VMAT	X06	1	0	0	6/27/2023 12:00:00 AM	"25583 N. Maple Road Saline, MI 48176"	48176	
+Pat03	1 PROST+SV	Male	9/3/1964 12:00:00 AM			White or Caucasian	2003	3003	30032868	1.1v P+SV	30033701	300389001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	5	2/23/2024 2:24:00 PM	2/19/2024 1:37:00 PM	3/15/2024 10:36:00 AM	Photon	VMAT	X06	1	0	0	6/27/2023 12:00:00 AM	"25584 N. Maple Road Saline, MI 48176"	48176	
+Pat03	1 PROST+SV	Male	9/3/1964 12:00:00 AM			White or Caucasian	2003	3003	30032869	1.1v P+SV	30033701	300389001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	6	2/26/2024 2:19:00 PM	2/19/2024 1:37:00 PM	3/15/2024 10:36:00 AM	Photon	VMAT	X06	1	0	0	6/27/2023 12:00:00 AM	"25585 N. Maple Road Saline, MI 48176"	48176	
+Pat03	1 PROST+SV	Male	9/3/1964 12:00:00 AM			White or Caucasian	2003	3003	30032870	1.1v P+SV	30033701	300389001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	7	2/27/2024 2:27:00 PM	2/19/2024 1:37:00 PM	3/15/2024 10:36:00 AM	Photon	VMAT	X06	1	0	0	6/27/2023 12:00:00 AM	"25586 N. Maple Road Saline, MI 48176"	48176	
+Pat03	1 PROST+SV	Male	9/3/1964 12:00:00 AM			White or Caucasian	2003	3003	30032871	1.1v P+SV	30033701	300389001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	8	2/28/2024 2:23:00 PM	2/19/2024 1:37:00 PM	3/15/2024 10:36:00 AM	Photon	VMAT	X06	1	0	0	6/27/2023 12:00:00 AM	"25587 N. Maple Road Saline, MI 48176"	48176	
+Pat03	1 PROST+SV	Male	9/3/1964 12:00:00 AM			White or Caucasian	2003	3003	30032872	1.1v P+SV	30033701	300389001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	9	2/29/2024 2:18:00 PM	2/19/2024 1:37:00 PM	3/15/2024 10:36:00 AM	Photon	VMAT	X06	1	0	0	6/27/2023 12:00:00 AM	"25588 N. Maple Road Saline, MI 48176"	48176	
+Pat03	1 PROST+SV	Male	9/3/1964 12:00:00 AM			White or Caucasian	2003	3003	30032873	1.1v P+SV	30033701	300389001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	10	3/1/2024 2:22:00 PM	2/19/2024 1:37:00 PM	3/15/2024 10:36:00 AM	Photon	VMAT	X06	1	0	0	6/27/2023 12:00:00 AM	"25589 N. Maple Road Saline, MI 48176"	48176	
+Pat03	1 PROST+SV	Male	9/3/1964 12:00:00 AM			White or Caucasian	2003	3003	30032874	1.1v P+SV	30033701	300389001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	11	3/4/2024 2:26:00 PM	2/19/2024 1:37:00 PM	3/15/2024 10:36:00 AM	Photon	VMAT	X06	1	0	0	6/27/2023 12:00:00 AM	"25590 N. Maple Road Saline, MI 48176"	48176	
+Pat03	1 PROST+SV	Male	9/3/1964 12:00:00 AM			White or Caucasian	2003	3003	30032875	1.1v P+SV	30033701	300389001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	12	3/5/2024 2:17:00 PM	2/19/2024 1:37:00 PM	3/15/2024 10:36:00 AM	Photon	VMAT	X06	1	0	0	6/27/2023 12:00:00 AM	"25591 N. Maple Road Saline, MI 48176"	48176	
+Pat03	1 PROST+SV	Male	9/3/1964 12:00:00 AM			White or Caucasian	2003	3003	30032876	1.1v P+SV	30033701	300389001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	13	3/6/2024 2:22:00 PM	2/19/2024 1:37:00 PM	3/15/2024 10:36:00 AM	Photon	VMAT	X06	1	0	0	6/27/2023 12:00:00 AM	"25592 N. Maple Road Saline, MI 48176"	48176	
+Pat03	1 PROST+SV	Male	9/3/1964 12:00:00 AM			White or Caucasian	2003	3003	30032877	1.1v P+SV	30033701	300389001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	14	3/7/2024 2:23:00 PM	2/19/2024 1:37:00 PM	3/15/2024 10:36:00 AM	Photon	VMAT	X06	1	0	0	6/27/2023 12:00:00 AM	"25593 N. Maple Road Saline, MI 48176"	48176	
+Pat03	1 PROST+SV	Male	9/3/1964 12:00:00 AM			White or Caucasian	2003	3003	30032878	1.1v P+SV	30033701	300389001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	15	3/8/2024 2:31:00 PM	2/19/2024 1:37:00 PM	3/15/2024 10:36:00 AM	Photon	VMAT	X06	1	0	0	6/27/2023 12:00:00 AM	"25594 N. Maple Road Saline, MI 48176"	48176	
+Pat03	1 PROST+SV	Male	9/3/1964 12:00:00 AM			White or Caucasian	2003	3003	30032879	1.1v P+SV	30033701	300389001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	16	3/11/2024 2:22:00 PM	2/19/2024 1:37:00 PM	3/15/2024 10:36:00 AM	Photon	VMAT	X06	1	0	0	6/27/2023 12:00:00 AM	"25595 N. Maple Road Saline, MI 48176"	48176	
+Pat03	1 PROST+SV	Male	9/3/1964 12:00:00 AM			White or Caucasian	2003	3003	30032880	1.1v P+SV	30033701	300389001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	17	3/12/2024 2:26:00 PM	2/19/2024 1:37:00 PM	3/15/2024 10:36:00 AM	Photon	VMAT	X06	1	0	0	6/27/2023 12:00:00 AM	"25596 N. Maple Road Saline, MI 48176"	48176	
+Pat03	1 PROST+SV	Male	9/3/1964 12:00:00 AM			White or Caucasian	2003	3003	30032881	1.1v P+SV	30033701	300389001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	18	3/13/2024 2:22:00 PM	2/19/2024 1:37:00 PM	3/15/2024 10:36:00 AM	Photon	VMAT	X06	1	0	0	6/27/2023 12:00:00 AM	"25597 N. Maple Road Saline, MI 48176"	48176	
+Pat03	1 PROST+SV	Male	9/3/1964 12:00:00 AM			White or Caucasian	2003	3003	30032882	1.1v P+SV	30033701	300389001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	19	3/14/2024 2:21:00 PM	2/19/2024 1:37:00 PM	3/15/2024 10:36:00 AM	Photon	VMAT	X06	1	0	0	6/27/2023 12:00:00 AM	"25598 N. Maple Road Saline, MI 48176"	48176	
+Pat03	1 PROST+SV	Male	9/3/1964 12:00:00 AM			White or Caucasian	2003	3003	30032883	1.1v P+SV	30033701	300389001	x.x.x.x.x.x.x.x.x	x.x.x.x.x.x.x.x.x	20	3/15/2024 10:36:00 AM	2/19/2024 1:37:00 PM	3/15/2024 10:36:00 AM	Photon	VMAT	X06	1	0	0	6/27/2023 12:00:00 AM	"25599 N. Maple Road Saline, MI 48176"	48176	
+
+O3_Input.exe Information: 0 :     Parsing treatment plan information
+O3_Input.exe Information: 0 : Parsing session information
+O3_Input.exe Information: 0 :     Check if Query GetDiagStagingInfo is in Active List
+O3_Input.exe Information: 0 :     Run Query GetDiagStagingInfo
+O3_Input.exe Information: 0 :     Data Table returned from GetDiagStagingInfo
+O3_Input.exe Information: 0 : Patient_MRN	RTCourse_Name	DiagStaging_DateOfRecord	DiagStaging_ICDCode	DiagStaging_Overall	StageComponents	DiagnosisDescription	DiagnosisName	PatientSer	CourseSer	
+Pat03	1 PROST+SV	9/6/2023 12:00:00 AM	C61	IIb	"T1c, N0, M0, P<10, G2                   "	Malignant neoplasm of prostate	Malignant neoplasm of prostate	2003	3003	
+
+O3_Input.exe Information: 0 :     Data Table returned from GetDICOMImagesInfo
+O3_Input.exe Information: 0 : Patient_MRN	RTCourse_Name	SeriesModality	SliceType	Image_BodyStructure	Image_PatientOrientation	IsCT	IsMV	IskV	HoursFromStartOfTx	Image_DateOfRecord	Image_DICOMSeriesUID	PatientSer	SeriesSer	Image_Type	
+Pat03	1 PROST+SV	CT	SliceCT	PELVIS	HFS	1	0	0	-289	2/7/2024 12:36:00 PM	x.x.x.x.x.x.x.x.x	2003	-9999	Computed Tomography	
+Pat03	1 PROST+SV	CT	SliceCT		HFS	1	0	0	0	2/19/2024 1:28:00 PM	x.x.x.x.x.x.x.x.x	2003	-9999	Cone Beam Computed Tomography	
+Pat03	1 PROST+SV	CT	SliceCT		HFS	1	0	0	25	2/20/2024 2:15:00 PM	x.x.x.x.x.x.x.x.x	2003	-9999	Cone Beam Computed Tomography	
+Pat03	1 PROST+SV	CT	SliceCT		HFS	1	0	0	49	2/21/2024 2:15:00 PM	x.x.x.x.x.x.x.x.x	2003	-9999	Cone Beam Computed Tomography	
+Pat03	1 PROST+SV	CT	SliceCT		HFS	1	0	0	73	2/22/2024 2:17:00 PM	x.x.x.x.x.x.x.x.x	2003	-9999	Cone Beam Computed Tomography	
+Pat03	1 PROST+SV	CT	SliceCT		HFS	1	0	0	97	2/23/2024 2:18:00 PM	x.x.x.x.x.x.x.x.x	2003	-9999	Cone Beam Computed Tomography	
+Pat03	1 PROST+SV	CT	SliceCT		HFS	1	0	0	169	2/26/2024 2:13:00 PM	x.x.x.x.x.x.x.x.x	2003	-9999	Cone Beam Computed Tomography	
+Pat03	1 PROST+SV	CT	SliceCT		HFS	1	0	0	192	2/27/2024 1:20:00 PM	x.x.x.x.x.x.x.x.x	2003	-9999	Cone Beam Computed Tomography	
+Pat03	1 PROST+SV	CT	SliceCT		HFS	1	0	0	217	2/28/2024 2:16:00 PM	x.x.x.x.x.x.x.x.x	2003	-9999	Cone Beam Computed Tomography	
+Pat03	1 PROST+SV	CT	SliceCT		HFS	1	0	0	241	2/29/2024 2:14:00 PM	x.x.x.x.x.x.x.x.x	2003	-9999	Cone Beam Computed Tomography	
+Pat03	1 PROST+SV	CT	SliceCT		HFS	1	0	0	265	3/1/2024 2:16:00 PM	x.x.x.x.x.x.x.x.x	2003	-9999	Cone Beam Computed Tomography	
+Pat03	1 PROST+SV	CT	SliceCT		HFS	1	0	0	337	3/4/2024 2:19:00 PM	x.x.x.x.x.x.x.x.x	2003	-9999	Cone Beam Computed Tomography	
+Pat03	1 PROST+SV	CT	SliceCT		HFS	1	0	0	361	3/5/2024 2:11:00 PM	x.x.x.x.x.x.x.x.x	2003	-9999	Cone Beam Computed Tomography	
+Pat03	1 PROST+SV	CT	SliceCT		HFS	1	0	0	385	3/6/2024 2:16:00 PM	x.x.x.x.x.x.x.x.x	2003	-9999	Cone Beam Computed Tomography	
+Pat03	1 PROST+SV	CT	SliceCT		HFS	1	0	0	409	3/7/2024 2:16:00 PM	x.x.x.x.x.x.x.x.x	2003	-9999	Cone Beam Computed Tomography	
+Pat03	1 PROST+SV	CT	SliceCT		HFS	1	0	0	433	3/8/2024 2:27:00 PM	x.x.x.x.x.x.x.x.x	2003	-9999	Cone Beam Computed Tomography	
+Pat03	1 PROST+SV	CT	SliceCT		HFS	1	0	0	505	3/11/2024 2:16:00 PM	x.x.x.x.x.x.x.x.x	2003	-9999	Cone Beam Computed Tomography	
+Pat03	1 PROST+SV	CT	SliceCT		HFS	1	0	0	529	3/12/2024 2:20:00 PM	x.x.x.x.x.x.x.x.x	2003	-9999	Cone Beam Computed Tomography	
+Pat03	1 PROST+SV	CT	SliceCT		HFS	1	0	0	553	3/13/2024 2:16:00 PM	x.x.x.x.x.x.x.x.x	2003	-9999	Cone Beam Computed Tomography	
+Pat03	1 PROST+SV	CT	SliceCT		HFS	1	0	0	577	3/14/2024 2:14:00 PM	x.x.x.x.x.x.x.x.x	2003	-9999	Cone Beam Computed Tomography	
+Pat03	1 PROST+SV	CT	SliceCT		HFS	1	0	0	597	3/15/2024 10:31:00 AM	x.x.x.x.x.x.x.x.x	2003	-9999	Cone Beam Computed Tomography	
+
+O3_Input.exe Information: 0 :     Parsing returned information about images
+O3_Input.exe Information: 0 :  Done with getting treatment data 
